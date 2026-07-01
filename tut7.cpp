@@ -16,6 +16,19 @@ int main(){
     cout<<sizeof(34.4L)<<endl;
     cout<<endl;
 
+    //All data types
+     int age = 18;
+    float height = 5.8;
+    char grade = 'A';
+    bool isStudent = true;
+    string name = "Ghanshyam";
+
+    cout << "Name: " << name << endl;
+    cout << "Age: " << age << endl;
+    cout << "Height: " << height << endl;
+    cout << "Grade: " << grade << endl;
+    cout << "Student: " << isStudent << endl;
+     cout<<endl;
 
     //***********REFERENCE VARIABLES***********
     //program me kisi vaule to 2 alg alg same reference se bulane chahte hai to we use ref variable
