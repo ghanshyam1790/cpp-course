@@ -22,7 +22,7 @@ int main(){
     cout<<"The value of a++ is "<<a++<<endl;//pehele a print kiya phir use system me preced kr diya by one.
     cout<<"The value of a-- is "<<a--<<endl;
     cout<<"The value of ++a is "<<++a<<endl;
-    cout<<"The value of --a is "<<--a<<endl;
+    cout<<"The value of --a is "<<--a<<endl;//This program may be termed as most basic calculator.
     cout<<endl;
 //Assignment Operator- Used to assign values to variables.
 
