@@ -38,7 +38,7 @@ switch (umar)
 case 18:
     cout<<"You are 18."<<endl;
     break;//agr ye break nhi hota to uske baad wale saare print ho jate. 
-    //like if we say age is 22 tab 22wala case aur 22 ke baad wala case sab print ho jata.
+    //like if we say age is 22 tab 22 wala case aur 22 ke baad wala case sab print ho jata.
     //break se wo pure ke pure ke pure program se bahar aa jayega.
 case 22:
     cout<<"You are 22."<<endl;
